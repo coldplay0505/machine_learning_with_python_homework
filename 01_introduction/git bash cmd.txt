@@ -1,0 +1,15 @@
+$ ssh-keygen
+
+$ git config --global user.name "coldplay0505"
+
+$ git config --global user.email "haokun9939@gmail.com"
+
+$ ssh -T git@github.com
+
+$ git status -s
+
+$ git add test.txt
+
+$ git commit -m "PN:XXXXX"
+
+$ git push origin master
